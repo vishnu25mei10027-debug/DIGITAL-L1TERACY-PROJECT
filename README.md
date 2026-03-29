@@ -12,14 +12,37 @@ Year: First Year
 GOOGLE FORM (TASK3)-
 https://docs.google.com/forms/d/e/1FAIpQLSduh5O51WdNXqN5yeQcA_tGWxllOlTpNj9Xe-kGU0LnkYLytQ/viewform?usp=publish-editor
 
-PROJECT OVERVIEW-
+📌 Project Overview
+This project was created as part of the CSE0001 Digital Literacy course at VIT Bhopal University. This project focuses on building digital literacy skills, including online presence, communication, coding platforms, and cyber safety.
 
-As a Student Digital Ambassador, my role is to promote digital literacy and responsible online behavior among college students. In today’s fast-paced digital world, students rely heavily on online platforms for learning, communication, and career development. However, many lack awareness about safe practices, professional online presence, and effective use of digital tools.
+Task 1 – Digital Literacy Infographic
+Infographic File:
+This infographic explains the concept of digital literacy and highlights useful tools, safety practices, and communication skills for students.
 
-This project aims to bridge that gap by guiding peers in building strong and professional digital identities, such as creating well-structured profiles on platforms like LinkedIn and maintaining a positive online footprint. It will also focus on teaching essential communication skills, including email etiquette and respectful online interaction.
+Task 2 – Digital Portfolio
+GitHub Profile : 
+LinkedIn Profile : 
+Stack Overflow Profile : 
+These platforms help in building a professional online presence.
 
-A key component of the initiative is promoting cybersecurity awareness. Students will be educated on identifying online threats such as phishing, protecting personal data, and safely using digital payment systems. Awareness sessions will highlight best practices like using strong passwords, enabling two-factor authentication, and recognizing suspicious links or messages.
+Task 3 – Platforms
+Codechef problem solution
+Google Form screenshot
+Google Sheet responses
+Google Form Link :- 
+Google Sheet Link :- 
+These tools help in coding practice and collaboration.
 
-Additionally, the project will introduce useful digital tools that enhance productivity, collaboration, and learning. Workshops, interactive sessions, and informational materials will be used to engage students effectively.
+Task 4 – Email Etiquette
+Professional Email 1 (Assignment Extension)
+Professional Email 2 (Internship Inquiry)
+Social Media Do’s and Don’ts Checklist
+This task focuses on professional communication and responsible social media usage.
 
-Overall, the goal is to empower students to use digital technologies confidently, responsibly, and safely, helping them succeed academically and professionally while maintaining a secure online presence.
+Task 5 – Cybercrime Awareness
+Case Study on UPI Fraud
+Prevention Checklist for Students
+This task helps in understanding online threats and how to stay safe in the digital world.
+
+📂 Project Structure
+digital-literacy-project/ │ ├── README.md ├── report/ │ └── Project_Report.pdf │ ├── task-1-presentation/ ├── task-2-portfolio/ ├── task-3-platforms/ ├── task-4-email-etiquette/ └── task-5-cybercrime/
