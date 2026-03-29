@@ -2,6 +2,10 @@
 
 Name- Vishnu Shri
 Registration number- 25MEI10027
+Course Code: CSE0001
+Course Title: Digital Literacy
+Branch: Int. Mtech Computer Science (Cybersecurity)
+Year: First Year
 
 
 
