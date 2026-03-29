@@ -8,10 +8,6 @@ Branch: Int. Mtech Computer Science (Cybersecurity)
 Year: First Year
 
 
-
-GOOGLE FORM (TASK3)-
-https://docs.google.com/forms/d/e/1FAIpQLSduh5O51WdNXqN5yeQcA_tGWxllOlTpNj9Xe-kGU0LnkYLytQ/viewform?usp=publish-editor
-
 📌 Project Overview
 This project was created as part of the CSE0001 Digital Literacy course at VIT Bhopal University. This project focuses on building digital literacy skills, including online presence, communication, coding platforms, and cyber safety.
 
