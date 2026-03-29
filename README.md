@@ -20,17 +20,17 @@ Infographic File:
 This infographic explains the concept of digital literacy and highlights useful tools, safety practices, and communication skills for students.
 
 Task 2 – Digital Portfolio
-GitHub Profile : 
-LinkedIn Profile : 
-Stack Overflow Profile : 
+GitHub Profile : https://github.com/vishnu25mei10027-debug
+LinkedIn Profile : https://www.linkedin.com/in/vishnu-shri-94465b3ba/
+Stack Overflow Profile : https://stackoverflow.com/users/32549320/vishnu-shri
 These platforms help in building a professional online presence.
 
 Task 3 – Platforms
 Codechef problem solution
 Google Form screenshot
 Google Sheet responses
-Google Form Link :- 
-Google Sheet Link :- 
+Google Form Link :- https://docs.google.com/forms/d/e/1FAIpQLSduh5O51WdNXqN5yeQcA_tGWxllOlTpNj9Xe-kGU0LnkYLytQ/viewform?usp=publish-editor
+Google Sheet Link :- https://docs.google.com/spreadsheets/d/1VP8szmME81DeOAjTKCu1S32tMDfKmk1bNKQfIlgihD0/edit?resourcekey=&gid=1899953780#gid=1899953780
 These tools help in coding practice and collaboration.
 
 Task 4 – Email Etiquette
